@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463533622773",
+    "firebase_url": "https://fir-kitchensink.firebaseio.com",
+    "project_id": "fir-kitchensink",
+    "storage_bucket": "fir-kitchensink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463533622773:android:69863526fb46e647",
+        "android_client_info": {
+          "package_name": "com.example.doubea.firebasekitchensink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463533622773-u8n21ap33pmeq3eqqtg1ccqlo6pulgq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doubea.firebasekitchensink",
+            "certificate_hash": "3c8ceb8e11e2e24cb188564774a0d2d850d8da58"
+          }
+        },
+        {
+          "client_id": "463533622773-0o999qd4sal4u54u7sd9tbpimdapmoo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PELBZBejg1cCy_nMCVpIhp4hUAB9q0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463533622773-0o999qd4sal4u54u7sd9tbpimdapmoo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
